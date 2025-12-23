@@ -61,25 +61,8 @@ These files correspond to:
 They are kept for traceability only and should not be used for evaluation.
 
 ## Repository Structure
+<img width="613" height="452" alt="image" src="https://github.com/user-attachments/assets/330f25aa-0f95-46c8-af99-51003cf0ef73" />
 
-Machine-Learning-Credit-Risk-Project-/
-│
-├── notebooks/
-│ ├── IF4_Derasse_Paviet_Minard_Project_CreditRisk.ipynb # Final notebook
-│ ├── Lab5_Project_CreditRisk.ipynb # Older version
-│ ├── updated version of project.ipynb # Intermediate version
-│ └── Essai_Tuning.ipynb # Tuning experiments
-│
-├── report/
-│ ├── main.tex # LaTeX source of the report
-│ ├── figures/ # All figures used in the report
-│ └── report.pdf # Final compiled report
-│
-├── src/
-│ └── models.py # Reusable model pipelines (logistic, RF)
-│
-├
-└── README.md # Project documentation
 
 ## Modeling Strategy (High-Level)
 
